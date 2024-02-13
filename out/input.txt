@@ -1,0 +1,10 @@
+JOHN   START  0
+       USING  *,15
+       LR     1,FIVE
+       A      1,FOUR
+       A      1,=F'2'
+       ST     1,TEMP
+FOUR   DC     F'4'
+FIVE   EQU    5
+TEMP   DS     1F
+       END

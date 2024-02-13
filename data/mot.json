@@ -1,0 +1,59 @@
+{
+    "MOT": [
+      {
+        "mnemonic": "START",
+        "opcode": "N/A",
+        "length": 0,
+        "format": "N/A"
+      },
+      {
+        "mnemonic": "USING",
+        "opcode": "N/A",
+        "length": 0,
+        "format": "N/A"
+      },
+      {
+        "mnemonic": "LR",
+        "opcode": "08",
+        "length": 2,
+        "format": "RX"
+      },
+      {
+        "mnemonic": "A",
+        "opcode": "5A",
+        "length": 2,
+        "format": "RX"
+      },
+      {
+        "mnemonic": "ST",
+        "opcode": "50",
+        "length": 2,
+        "format": "RX"
+      },
+      {
+        "mnemonic": "DC",
+        "opcode": "N/A",
+        "length": 1,
+        "format": "N/A"
+      },
+      {
+        "mnemonic": "DS",
+        "opcode": "N/A",
+        "length": 1,
+        "format": "N/A"
+      },
+      {
+        "mnemonic": "EQU",
+        "opcode": "N/A",
+        "length": 0,
+        "format": "N/A"
+      },
+      {
+        "mnemonic": "END",
+        "opcode": "N/A",
+        "length": 0,
+        "format": "N/A"
+      }
+    ]
+  }
+  
