@@ -1,0 +1,18 @@
+JOHN START 0  ; LC=0
+  USING *,15  ; LC=0
+  LR 1,FIVE  ; LC=0
+  A 1,FOUR  ; LC=0
+  A 1,=F'2'  ; LC=0
+  ST 1,TEMP  ; LC=0
+FOUR DC F'4'  ; LC=1
+FIVE EQU 5  ; LC=1
+TEMP DS 1F  ; LC=2
+  END ; LC=2
+
+Symbol Table:
+JOHN: 0
+FOUR: 0
+FIVE: 5
+TEMP: 1
+
+Litreal Table
